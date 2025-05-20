@@ -1,4 +1,4 @@
-# Como parte del proyecto se le agregaron cuatro nurvos metodos:
+# Como parte del proyecto se le agregaron cuatro nuevos metodos:
 ## Secante
 ## Gauss-Seidel
 ## Interpolacion de Lagrange
